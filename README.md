@@ -1,12 +1,6 @@
 # Discord Ticket Bot
 
-TypeScript Discord ticket bot backed by Supabase/PostgreSQL. It supports:
-
-- `/ticket create`
-- a persistent support-panel style `Create Ticket` button
-- automatic staff assignment to the least-loaded active staff member
-- claim and close actions
-- ticket message sync into Supabase
+TypeScript Discord ticket bot backed by Supabase/PostgreSQL. Built for UBC BizTech Technical Question
 
 ## Setup
 
